@@ -14,12 +14,6 @@ body {
     color: black;
 }
 
-img {
-    max-width: 100%;
-    display: block;
-    height: auto;
-}
-
 .card {
     position: absolute;
     left: 50%;
